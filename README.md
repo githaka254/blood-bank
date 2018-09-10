@@ -1,2 +1,2 @@
 # blood-bank
-mobile app
+mobile application
